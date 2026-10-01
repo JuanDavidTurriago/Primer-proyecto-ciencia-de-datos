@@ -1,6 +1,10 @@
 # Proyecto 1 · Bodega de datos de homicidios
 
-**Grupo 1:** Andres Felipe Castrillon Martinez, Bryan Panesso Avila y Juan David Turrigao Orozco.
+**Grupo 1:**
+Bryan Steven Panesso Avila 2380701
+Andres Felipe Castrillon Martínez 2380664
+Javier Andrés Muñoz Tavera 2380421
+Juan David Turriago Orozco 2477182
 
 **Pregunta:** ¿Cómo se distribuye la cantidad registrada por tiempo, territorio, sexo y características del hecho en el archivo aportado?
 
@@ -32,8 +36,4 @@ Los notebooks ya incluyen salidas de una ejecución verificada. C y D abren su p
 Los seis entregables principales están en `entrega/`. `datos/` conserva el Excel aportado, su conversión CSV sin filtrar y las huellas SHA-256. `src/` contiene el ETL, las seis consultas y las ocho figuras. `documentacion/` contiene el análisis de avances, la validación y el guion oral. Los notebooks de exploración inicial y EDA son complementos pedidos por los avances.
 
 **Acuerdo del avance 1 (firma pendiente):** Los integrantes del grupo se comprometen a mantener el dataset elegido durante los tres proyectos del semestre (P1, P2/3, P4). Cambios sólo por autorización del profesor. Iniciales de conformidad por completar: ___ / ___ / ___. Registro en Moodle y repositorio compartido con el docente: pendientes de confirmación.
-## Integrantes
-Bryan Steven Panesso Avila 2380701
-Andres Felipe Castrillon Martínez 2380664
-Javier Andrés Muñoz Tavera 2380421
-Juan David Turriago Orozco 2477182
+
